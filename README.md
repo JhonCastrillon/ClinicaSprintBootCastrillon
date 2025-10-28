@@ -108,3 +108,9 @@ Documentar la API con Swagger.
 📄 Licencia
 
 Este proyecto es open-source bajo licencia MIT.
+
+## 👤 Autor
+**Jhon Castrillon**  
+- GitHub: https://github.com/JhonCastrillon/ClinicaSprintBootCastrillon/tree/main
+- Email: jhoncastrillon@globant.com
+- Colombia
